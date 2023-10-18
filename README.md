@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andres Galvis</h1>
+
+<p align="center">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+</p>
+
 <h3 align="center">A passionate developer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
