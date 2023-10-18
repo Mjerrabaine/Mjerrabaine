@@ -11,6 +11,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mjerrabaine](https://github.com/Mjerrabaine)
 
 - 📫 How to reach me **af.galvis@uniandes.edu.co**
+  
+<p align="center">
+  <img src= "[https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp](https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif)">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
