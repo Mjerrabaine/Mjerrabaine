@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://giphy.com/gifs/bleach-kisuke-urahara-aDS8SjVtS3Mwo">
+  <img src= "https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif">
 </p>
 
 <iframe src="https://giphy.com/embed/aDS8SjVtS3Mwo" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bleach-kisuke-urahara-aDS8SjVtS3Mwo">via GIPHY</a></p>
