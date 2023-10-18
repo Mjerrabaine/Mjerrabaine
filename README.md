@@ -17,10 +17,6 @@
 
 - 📫 How to reach me **af.galvis@uniandes.edu.co**
   
-<p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andresfernandogalvis23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andresfernandogalvis23" height="30" width="40" /></a>
