@@ -13,10 +13,8 @@
 - 📫 How to reach me **af.galvis@uniandes.edu.co**
   
 <p align="center">
-  <img src= "[https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp](https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif](https://giphy.com/gifs/bleach-kisuke-urahara-aDS8SjVtS3Mwo)">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p>
-
-<iframe src="https://giphy.com/embed/aDS8SjVtS3Mwo" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bleach-kisuke-urahara-aDS8SjVtS3Mwo">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
