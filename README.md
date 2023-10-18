@@ -1,18 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andres Galvis</h1>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
-
-<p align="center">
-  <img src= "https://giphy.com/embed/aDS8SjVtS3Mwo">
-</p>
-
-<p align="center">
   <img src= "https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif">
 </p>
-
-<iframe src="https://giphy.com/embed/aDS8SjVtS3Mwo" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bleach-kisuke-urahara-aDS8SjVtS3Mwo">via GIPHY</a></p>
 
 
 <h3 align="center">A passionate developer from Colombia</h3>
