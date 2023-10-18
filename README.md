@@ -32,9 +32,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjerrabaine&" alt="mjerrabaine" /></p>
 
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mjerrabaine&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
 ![snake gif](https://github.com/Mjerrabaine/Mjerrabaine/blob/output/github-contribution-grid-snake.svg)
+
+-->
 
