@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://giphy.com/gifs/bleach-kisuke-urahara-aDS8SjVtS3Mwo">
+  <img src= "https://giphy.com/gifs/bleach-kisuke-urahara-aDS8SjVtS3Mwo/fullscreen">
 </p>
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/aDS8SjVtS3Mwo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bleach-kisuke-urahara-aDS8SjVtS3Mwo">via GIPHY</a></p>
