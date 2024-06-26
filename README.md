@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjerrabaine&label=Profile%20views&color=0e75b6&style=flat" alt="mjerrabaine" /> </p>
 
-- 🔭 I’m currently working on **Open Source**
+- 🔭 I’m currently working on **Web Scrapping**
 
 - 🌱 I’m currently learning **Web 3.0**
 
