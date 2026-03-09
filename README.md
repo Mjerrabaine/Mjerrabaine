@@ -104,7 +104,7 @@ I’m currently building hands-on projects to strengthen my path into cybersecur
 </a>
 
 <a href="https://attack.mitre.org/" target="_blank">
-<img src="./assets/icons/mitre_attack_logo-freelogovectors.net_.png" width="150"  height="45"/>
+<img src="./assets/icons/mitre_attack_logo-freelogovectors.net_.png" height="45"/>
 </a>
 
 
