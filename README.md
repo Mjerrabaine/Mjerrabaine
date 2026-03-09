@@ -132,18 +132,6 @@ I’m currently building hands-on projects to strengthen my path into cybersecur
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="45"/>
 </a>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjerrabaine&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mjerrabaine&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Mjerrabaine&theme=tokyonight" />
-</p>
-
 
 <!--
 ### 🔝 Top Contributed Repo
