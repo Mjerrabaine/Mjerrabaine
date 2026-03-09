@@ -103,7 +103,7 @@ I’m currently building hands-on projects to strengthen my path into cybersecur
 
 <!-- Nmap -->
 <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-<img src="./assets/icons/nmap-logo.png.png" alt="nmap" width="40" height="40"/>
+<img src="./assets/icons/nmap-logo.png" alt="nmap" width="40" height="40"/>
 </a>
 
 <!-- MITRE ATT&CK -->
