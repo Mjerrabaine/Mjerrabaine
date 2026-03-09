@@ -49,7 +49,6 @@ I’m currently building hands-on projects to strengthen my path into cybersecur
 - Python
 - SQL
 - Git
-- Bash
 - Docker
 
 ### Data & Analytics
