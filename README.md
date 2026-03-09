@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andres Galvis</h1>
 
 <p align="center">
-  <img src= "https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif">
+<!--  <img src= "https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif"> -->
+      <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE3bmtpZ2pnZ3k1ZWV6Z2wzbTQ0eDJraXZvczVkZTJxcTFzcWlyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQL0xnCrnT3jXn8RJc/giphy.gif">
 </p>
 
 
