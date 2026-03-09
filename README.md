@@ -77,7 +77,7 @@ I’m currently building hands-on projects to strengthen my path into cybersecur
 <h3 align="left">Languages and Tools:</h3>
 <!-- Kali Linux -->
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/kali-linux.svg" alt="kali linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="kali linux" width="40" height="40"/>
 </a>
 
 <!-- Splunk -->
