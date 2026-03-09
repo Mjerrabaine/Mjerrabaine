@@ -5,19 +5,62 @@
 </p>
 
 
-<h3 align="center">A passionate developer from Colombia</h3>
+<h3 align="center"Aspiring Cybersecurity Analyst with experience in Data Engineering, Python, and Automation</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjerrabaine&label=Profile%20views&color=0e75b6&style=flat" alt="mjerrabaine" /> </p>
+<h3 align="center">Aspiring Cybersecurity Analyst | Data & Automation Background | Systems Engineer from Colombia</h3>
 
-- 🔭 I’m currently working on **Web Scrapping**
+---
 
-- 🌱 I’m currently learning **Web 3.0**
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mjerrabaine](https://github.com/Mjerrabaine)
+I’m Andres Galvis, a Systems Engineer from Colombia with a growing focus on **cybersecurity**, especially in areas like **security monitoring, threat detection, SOC workflows, and technical problem-solving**.
 
-- 📫 How to reach me **af.galvis@uniandes.edu.co**
-  
+My background also includes **data engineering and analytics**, where I worked with data pipelines, automation, and insight generation during my internship. That experience now supports the way I approach cybersecurity: with an analytical mindset, attention to detail, and a strong interest in using data to investigate and solve problems.
+
+I’m currently building hands-on projects to strengthen my path into cybersecurity while keeping my data and automation skills as a strong professional asset.
+
+---
+
+## 🚀 Current Focus
+
+- 🔐 Building hands-on **cybersecurity projects**
+- 📊 Applying my **data internship experience** to analytical and technical roles
+- 🐍 Improving **Python, SQL, and automation** skills
+- 🖥️ Learning more about **SOC operations, detection logic, and log analysis**
+- 🧪 Working on a **Local SOC Lab** using Splunk, Sysmon, and attack simulation
+
+---
+
+## 🛠️ Featured Areas
+
+### Cybersecurity
+- Splunk
+- Sysmon
+- Linux
+- Kali Linux
+- MITRE ATT&CK
+- Log Analysis
+- Detection Queries
+- Security Monitoring
+
+### Programming & Automation
+- Python
+- SQL
+- Git
+- Bash
+- Docker
+
+### Data & Analytics
+- Pandas
+- PostgreSQL
+- Data Engineering
+- Data Analysis
+- ETL / Automation
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andresfernandogalvis23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andresfernandogalvis23" height="30" width="40" /></a>
