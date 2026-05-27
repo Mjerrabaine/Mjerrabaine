@@ -39,11 +39,12 @@ I’m currently building hands-on projects to strengthen my path into cybersecur
 - ✅ CompTIA Security+
 - ✅ PeopleCert ITIL Foundation v5
 - ✅ Microsoft SC-900 — Security, Compliance, and Identity Fundamentals
-- 📘 Currently preparing for:
-      - Microsoft SC-300
-      - CompTIA CySA+
-      - Microsoft SC-200
-      - Blue Team Level Certifications BTL1
+  
+### In Progress
+- 📘 Microsoft SC-300
+- 📘 CompTIA CySA+
+- 📘 Microsoft SC-200
+- 📘 Blue Team Level Certifications BTL1
 ---
 
 ## 🛠️ Technical Skills
