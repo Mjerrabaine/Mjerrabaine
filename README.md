@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I’m Andres Galvis, a Systems Engineer from Colombia with a growing focus on **cybersecurity**, especially in areas like **security monitoring, threat detection, SOC workflows, and technical problem-solving**.
+I’m Andres Galvis, a Systems & computing Engineer from Colombia with a growing focus on **cybersecurity**, especially in areas like **security monitoring, threat detection, SOC workflows, and technical problem-solving**.
 
 My background also includes **data engineering and analytics**, where I worked with data pipelines, automation, and insight generation during my internship. That experience now supports the way I approach cybersecurity: with an analytical mindset, attention to detail, and a strong interest in using data to investigate and solve problems.
 
@@ -26,47 +26,73 @@ I’m currently building hands-on projects to strengthen my path into cybersecur
 
 ## 🚀 Current Focus
 
-- 🔐 Building hands-on **cybersecurity projects**
-- 📊 Applying my **data internship experience** to analytical and technical roles
-- 🐍 Improving **Python, SQL, and automation** skills
+- 🔐 Building hands-on **cybersecurity and blue team projects**
+- 🛡️ Expanding skills in **Identity & Access Management (IAM) and SOC operations**
+- 📊 Developing practical experience with log analysis, threat detection, and SIEM workflows
 - 🖥️ Learning more about **SOC operations, detection logic, and log analysis**
-- 🧪 Working on a **Local SOC Lab** using Splunk, Sysmon, and attack simulation
+- 🧪 Documenting my **Active Directory home lab** using Active Directory Domain Services (AD DS)
 
 ---
+🎓 Certifications
+✅ CompTIA A+
+✅ CompTIA Network+
+✅ CompTIA Security+
+✅ PeopleCert ITIL Foundation v5
+✅ Microsoft SC-900 — Security, Compliance, and Identity Fundamentals
+📘 Currently preparing for:
+Microsoft SC-300
+CompTIA CySA+
+Microsoft SC-200
+Blue Team Level Certifications BTL1
+---
 
-## 🛠️ Featured Areas
-
-### Cybersecurity
+## 🛠️ Technical Skills
+### Cybersecurity & Blue Team
+- SIEM Fundamentals
 - Splunk
 - Sysmon
-- Linux
-- Kali Linux
+- Windows Event Logs
 - MITRE ATT&CK
+- Threat Detection
 - Log Analysis
-- Detection Queries
 - Security Monitoring
+- Incident Investigation
+- Active Directory
+- Linux & Kali Linux
+
+### Identity & Access Management
+- Microsoft Entra ID
+- Conditional Access
+- RBAC
+- MFA
+- Identity Governance
+- Authentication & Authorization Concepts
 
 ### Programming & Automation
 - Python
 - SQL
-- Git
+- Git & GitHub
 - Docker
+- Security Automation
 
 ### Data & Analytics
 - Pandas
 - PostgreSQL
-- Data Engineering
-- Data Analysis
 - ETL / Automation
+- Data Analysis
+- Data Engineering
 
 ---
 
 ## 🌱 Currently Learning
 
-- Cybersecurity fundamentals and SOC workflows
-- Threat detection and event investigation
+- SOC analyst workflows and alert triage
+- Detection engineering fundamentals
+- Threat hunting concepts
+- Microsoft security ecosystem
+- Blue team methodologies
 - Security-related Python automation
-- Practical blue team skills
+- Identity and access management (IAM)
 
 ---
 
