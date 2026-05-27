@@ -33,7 +33,7 @@ I’m currently building hands-on projects to strengthen my path into cybersecur
 - 🧪 Documenting my **Active Directory home lab** using Active Directory Domain Services (AD DS)
 
 ---
-🎓 Certifications
+### 🎓 Certifications
 - ✅ CompTIA A+
 - ✅ CompTIA Network+
 - ✅ CompTIA Security+
