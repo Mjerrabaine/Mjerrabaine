@@ -41,10 +41,10 @@ I’m currently building hands-on projects to strengthen my path into cybersecur
 - ✅ Microsoft SC-900 — Security, Compliance, and Identity Fundamentals
   
 ### In Progress
-- 📘 Microsoft SC-300
-- 📘 CompTIA CySA+
-- 📘 Microsoft SC-200
-- 📘 Blue Team Level Certifications BTL1
+- 📘 SC-300 Microsoft Certified: Identity and Access Administrator Associate
+- 📘 CompTIA Cybersecurity Analyst (CySA+)
+- 📘 SC-200 Microsoft Certified: Security Operations Analyst Associate
+- 📘 Blue Team Level 1 (BTL1)
 ---
 
 ## 🛠️ Technical Skills
